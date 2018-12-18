@@ -13,6 +13,8 @@ LIRI is a command line node app that can search Spotify for songs, Bands in Town
     • npm
 
 ## Gifs
+![LIRI Runthrough](https://media.giphy.com/media/9Jgo70xiC06bHLGOlH/giphy.gif)
+
 
 Running command 'spotify-this-song' "[song choice]'
 
